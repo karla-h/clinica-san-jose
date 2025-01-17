@@ -2,7 +2,7 @@
 
 Este es un sistema de **gestión de citas** diseñado para la **Clínica San José**, desarrollado con el propósito de facilitar la programación, gestión y administración de las citas médicas para pacientes.
 
-![Logo de la Clínica](src/iconos/ClinicaSanJose.png)
+![Logo de la Clínica](/src/iconos/ClinicaSanJose.png)
 
 ## Tecnologías Utilizadas
 
